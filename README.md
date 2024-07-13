@@ -1,3 +1,7 @@
+MEMBRE DU TRAVAIL 
+MUJINGA KYUNGU GUILLAIN
+MUJINGA TSHIBANGU KEREN
+
 Voici quelques étapes pour  le démarrage de notre application :
 
 Définission des fonctionnalités :
