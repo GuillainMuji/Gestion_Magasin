@@ -1,0 +1,26 @@
+[
+    {
+        "idProd": 2,
+        "nom": "MANGUE",
+        "prix": 25,
+        "quantite": 200,
+        "date": "2024-07-12",
+        "heure": "21:31:12"
+    },
+    {
+        "idProd": 3,
+        "nom": "SONA",
+        "prix": 20,
+        "quantite": 100,
+        "date": "2024-07-12",
+        "heure": "21:34:50"
+    },
+    {
+        "idProd": 4,
+        "nom": "AYU",
+        "prix": 20,
+        "quantite": 100,
+        "date": "2024-07-12",
+        "heure": "21:35:32"
+    }
+]

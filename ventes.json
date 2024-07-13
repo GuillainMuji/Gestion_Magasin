@@ -1,0 +1,16 @@
+[
+    {
+        "client": "GUILLAIN",
+        "quantite": 23,
+        "produit": "BANANE",
+        "facturation": 460,
+        "date": "2024-07-12"
+    },
+    {
+        "client": "GUILLAIN",
+        "quantite": 20,
+        "produit": "BANANE",
+        "facturation": 160,
+        "date": "2024-07-12"
+    }
+]
