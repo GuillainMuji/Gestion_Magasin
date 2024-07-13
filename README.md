@@ -1,5 +1,5 @@
 MEMBRE DU TRAVAIL 
-MUJINGA KYUNGU GUILLAIN
+MUJINGA KYUNGU GUILLAIN ET
 MUJINGA TSHIBANGU KEREN
 
 Voici quelques étapes pour  le démarrage de notre application :
